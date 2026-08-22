@@ -1,0 +1,12 @@
+logs
+.vscode
+.idea
+.trae
+__pycache__
+dt
+Datasets
+logs_model
+model
+train_logs
+vgg16_method1.pth
+vgg16_method2.pth
